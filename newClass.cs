@@ -6,5 +6,9 @@ namespace ConsoleApp26
 {
     class newClass
     {
+        static void Funkcija()
+        {
+            //lokal
+        }
     }
 }
