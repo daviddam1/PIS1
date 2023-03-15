@@ -8,7 +8,7 @@ namespace ConsoleApp26
     {
         static void Funkcija()
         {
-
+            //lokal
         }
     }
 }
